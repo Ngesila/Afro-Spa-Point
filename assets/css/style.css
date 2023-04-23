@@ -155,7 +155,6 @@ hr {
 
 /* best beauty oasis */
 
-
   #welcome{
     text-align: center;
     margin: 20px 0;
@@ -183,4 +182,15 @@ hr {
     border-radius: 50%;
 }
 
+/*Openin hours, events and more*/
+
+#Spa-lilyflower{
+    background-image: url('../images/spa-lily\ flower.webp');
+    background-repeat: no-repeat;
+    background-position: center contain;
+    background-size: cover;
+    background-size: fit;width: 100%;
+    overflow: hidden;
+    
+}
     
