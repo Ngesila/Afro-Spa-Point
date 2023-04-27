@@ -185,7 +185,7 @@ hr {
 
 /*Openin hours, events and more*/
 
-#Spa-lilyflower{
+#spa-lilyflower {
     background-image: url('../images/cherry\ blossom.jpg');
     background-repeat: no-repeat;
     background-position: center;
@@ -196,7 +196,7 @@ hr {
     
 }
     
-#Spa-lilyflower div{
+#spa-lilyflower div{
     color: #fafafa;
     background-color: rgba(0, 0, 0, .6);
     width: 50%;
@@ -241,3 +241,7 @@ footer {
 #photos > img {
     width: 100%;
 }
+
+
+
+
