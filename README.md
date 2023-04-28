@@ -1,11 +1,13 @@
 # User Experience / UX
 # Afro Spa point is a one stop for all your beauty needs.
 ## Escape to glam glow and relax.
-### Visit us today and get glamglowed up!
+### Visit us today and bet glamglowed up!
 
 # Our founding Goal
 
-### The main aim is to get all beauty essentials under one roof.To shop, spa, monthly events.Interactions with beauty influencers.
+### The main aim is to get all beauty essentials under one roof.
+### To shop, spa and  monthly events.
+### Interactions with beauty influencers.
 ### Get to buy both local and international organic, enviroment friendly products packed in glass or recyclebar vessels and also  Re-fill services.
 
 # Colour Scheme
@@ -64,10 +66,11 @@
 
 ### Code Instistute: why I am learning how to code taking a course in full-stack-software-development-diploma
 ### Tutor and Mentor from Code instistute.
-### https://www.pexels.com/ : All images are free to worn load.
+### https://www.pexels.com/ : All images are free to down load.
 
 
 # Acknowledgments
+
 ## Tutors and Mentor from Code Institute.
 ## Essential lessons and Love Running challenges at Code Institute
 
