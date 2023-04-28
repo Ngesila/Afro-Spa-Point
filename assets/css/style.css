@@ -21,6 +21,7 @@ h1, h2 {
     letter-spacing: 4px;
     color: #d4af37;
     font-weight:600;
+    font-weight: bold;
 }
 
 #logo {
@@ -33,7 +34,7 @@ h1, h2 {
 /* navigation links */
 
 #menu {
-    font-size: 110%;
+    font-size: 100%;
     letter-spacing: 4px;
     color: #d4af37;
 }
