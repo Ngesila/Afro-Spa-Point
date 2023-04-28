@@ -125,8 +125,7 @@ h1, h2 {
     position: absolute;
 }
   /*glam and glow*/  
-  #glamglow {
-    height: 630px;
+
   }
    
   
@@ -195,7 +194,7 @@ hr {
 /*Opening hours, events and more*/
 
 #blosssoms {
-    background-image: url('../images/cherry\ blossom.jpg');
+    background-image: url('../images/cherry-blossom.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -257,10 +256,6 @@ footer {
 /* For larger to medium screens size from 800px wide and down */
 @media screen and (max-width: 800px) {
 
- #glamglow {
-    width: 65%;
-    height: 800px;
-    margin: 0 auto;
 
 }
 
@@ -295,8 +290,20 @@ hr {
     display: none;
 }
 }
-/* For medium screen sizes from 630px wide and down */
-@media screen and (max-width: 630px) {
+/* For medium screen sizes from 600px wide and down */
+@media screen and (max-width: 600px) {
+    #left-about {
+    padding-top: 30px;
+    width: 100%;
+    float: left;
+}
+
+#right-about {
+    clear: both;
+    width: 100%;
+    float: left;
+    padding: 0;
+}
 
     #menu {
         clear: left;
@@ -309,9 +316,8 @@ hr {
 
 
 #glamglow {
-    width: 90%;
-    height: 630px;
-    margin: 0 auto;
+    width: 100%;
+   margin: 0 auto;
         
 }
 .left-about-heading, .right-about-heading  {
