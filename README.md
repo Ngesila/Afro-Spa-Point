@@ -15,9 +15,9 @@
 
 # Typography
 ### Google Fonts:  https://fonts.google.com/
- ### Lato: 300
+### Lato: 300
 ### Tangerine: 700
-### The two harmonise i together to create some artisry throughout the pages.
+### The two harmonise together to create some artisry throughout the pages.
 
 
 # Imagery
@@ -31,7 +31,7 @@
 
 # Accessibility
 
-## All images have alt explaining well about each image.
+### All images have alt explaining well about each image.
 
 # Deployment
 
@@ -68,8 +68,8 @@
 
 
 # Acknowledgments
-## Tutors and Mentor from Code instistute.
-## Essential lessons and Love Running challenhges at Code Institute
+## Tutors and Mentor from Code Institute.
+## Essential lessons and Love Running challenges at Code Institute
 
 
 
