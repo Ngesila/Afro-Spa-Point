@@ -255,9 +255,9 @@ footer {
 /* Media queries */
 
 /* For larger to medium screens size from 800px wide and down */
-@media screen and (max-width: 800px) 
-  
-   #glamglow {
+@media screen and (max-width: 800px) {
+
+ #glamglow {
     width: 65%;
     height: 800px;
     margin: 0 auto;
@@ -282,7 +282,7 @@ footer {
     padding: 0;
 }
 
-#blossoms > div{
+#blossoms > div {
     width: 100%;
     clear: both;
     height: 800px;
@@ -294,7 +294,7 @@ footer {
 hr {
     display: none;
 }
-
+}
 /* For medium screen sizes from 630px wide and down */
 @media screen and (max-width: 630px) {
 
