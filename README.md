@@ -64,7 +64,8 @@
 
 # Credits
 
-### Code Instistute: https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode : where I am learning how to code taking a course in full-stack-software-development-diploma
+### Code Instistute: https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode 
+### where I am  taking a course in full-stack-software-development-diploma
 ### Tutor and Mentor from Code instistute.
 ### https://www.pexels.com/ : All images are free to down load.
 
